@@ -1,0 +1,190 @@
+/* CSS Document */
+li a:hover
+{
+text-decoration:underline;
+color:white;
+}
+li a
+{
+text-decoration:none;
+color:#CCCCCC;
+}
+ol li a
+{
+text-decoration:none;
+color:#3399FF;
+}
+
+ol li a:hover
+{
+text-decoration:underline;
+color:#3399FF;
+}
+
+.bc
+{
+width:100%;
+}
+.navele
+{
+background:transparent;border:none;color:rgba(102, 102, 102, 0.51);
+}
+.navele:hover
+{
+background:transparent;border:none;color:rgba(102, 102, 102, 0.51);
+}
+.navele:active
+{
+background:transparent;border:none;color:rgba(102, 102, 102, 0.51);
+}
+.navele:focus
+{
+background:transparent;border:none;color:rgba(102, 102, 102, 0.51);
+}
+.pop
+{
+color:#666666;
+}
+.pop:hover
+{
+color:#46B8DA;
+}
+.pointer
+{
+cursor:pointer;
+}
+.footer-content{
+width:100%;
+height:200px;
+color:white;
+bottom:0px;
+position:relative;
+}
+.footer-content ul {
+
+height:200px;
+color:#CCCCCC;}
+.foobar
+{
+background:rgba(0, 0, 0, 0.7);
+}
+.footer2
+{
+
+top:0px;
+bottom:0px;
+color:white;
+height:100px;
+text-align:center;
+}
+.cfix
+{
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display:inline-block;
+   height: 0;
+   clear: both;
+}
+.fix{
+ position: fixed;
+    bottom:60px;
+    right: 60px;
+    }
+	.fix2
+	{
+	position: fixed;
+    bottom:0px;
+    right: 0px;
+	}
+	
+	.no
+	{
+	display:none;
+	}
+	.msg 
+	{
+	border:1px solid black;
+	background:#ffffff;
+	width:300px;
+	height:300px;
+	bottom:0px;
+	right:0px;
+	position:fixed;
+	}
+	.msg header
+	{
+	background:#000000;
+	color:white;
+	text-align:justify;
+	height:50px;
+	}
+	#mclose
+	{
+	cursor:pointer;
+	}
+	.banner { position: relative; overflow: auto; width:90%; }
+    .banner li { list-style: none; }
+        .banner ul li { float: left; left:0px;}
+		.container section
+		{
+		background:white;
+		border-radius:9px;
+		height:250px;
+		width:350px;
+		cursor:pointer;
+		color:#666666;
+		margin-left:20px;
+		margin-top:30px;
+	
+		}
+		 .web
+		{
+		font-size:100px;
+		}
+		.webt{ font-size:36px;}
+		
+		.container section:hover
+		{
+		color:#46B8DA;
+		box-shadow:10px 10px 5px #888888;
+		}
+		.pnav
+		{
+		background:white;
+		height:50px;
+		cursor:pointer;
+		}
+		.green{color:green; display:none;}
+		.pnav .na{ width:200px; margin-top:20px;}
+		.pnav .nar{ margin-top:20px;}	
+		.spanner
+		{
+		background:#5BC0DE; font-size:24px;cursor:pointer;
+		}	
+	  .spanner:hover
+		{
+		background:#666666; font-size:24px;cursor:pointer;
+		}	
+		.txtcolor
+		{
+		color:#666;
+		}
+		.hosting
+		{
+		background:white;
+		border-radius:9px;
+		height:400px;
+		width:850px;
+		padding:5px;
+		}
+		.starter1,.standard1,.proff1,.expert1
+		{
+		background:#DFF0D8;
+		color: #3C763D;
+		}
+		.starter2
+		{
+		background:#F2DEDE;
+		color:#A94442;
+		}
+		
